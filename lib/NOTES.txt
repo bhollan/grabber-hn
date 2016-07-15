@@ -1,8 +1,0 @@
-setup database (sqlite, then move to postgresql)
-setup api-polling
-setup write to database
-setup cron job
-
-Analysis:
-copy database for analysis (move to live connection)
-
