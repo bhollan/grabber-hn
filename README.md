@@ -1,4 +1,24 @@
-This is my attempt at getting MY OWN data to play with.<br>
-I want to prove the HackerNews ranking algorithm.<br>
-I want to show how my post(s) travel through the rankings.<br>
-I want to show stats about high-ranking posts.<br>
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
